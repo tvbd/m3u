@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:24,HBO HD
+https://m2.ballnaja.com:8443/HBOHD/playlist.m3u8
+#EXTINF:22,HBOHITS
+https://m2.ballnaja.com:8443/HBOHITS/playlist.m3u8
+#EXTINF:23,HBOFAMILY
+https://m2.ballnaja.com:8443/HBOFAMILY/playlist.m3u8
+#EXTINF:23,HBOSIG
+https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8
+#EXTINF:24,ROCK EXTREME
+https://m1.ballnaja.com/ROCK_Extreme/playlist.m3u8
+#EXTINF:24,ROCK_ENTERTAINMENT
+https://m1.ballnaja.com/ROCK_ENTERTAINMENT/playlist.m3u8
+#EXTINF:23,AXN HD
+https://m2.ballnaja.com:8443/AXN/playlist.m3u8
+#EXTINF:24,WARNER
+https://m1.ballnaja.com/ais_Warner_TV/playlist.m3u8
+#EXTINF:22,LIFETIME
+https://m2.ballnaja.com:8443/Lifetime/playlist.m3u8
+#EXTINF:22,SLING FXM
+https://m2.ballnaja.com:8443/sling_fxm/playlist.m3u8
+#EXTINF:23,PARAMOUNT
+https://m2.ballnaja.com:8443/Paramount/playlist.m3u8
+#EXTINF:24,AXN
+https://m1.ballnaja.com/AXN/index.m3u8?
+#EXTINF:23,Paramount
+https://m2.ballnaja.com:8443/Paramount/index.m3u8?
+#EXTINF:22,Ais Paramount Network
+https://m1.ballnaja.com/ais_Paramount_Network/index.m3u8?
+#EXTINF:23,Fx
+https://m2.ballnaja.com:8443/sling_fx/index.m3u8?
+#EXTINF:20,FXM
+https://m2.ballnaja.com:8443/sling_fxm/index.m3u8?
+#EXTINF:23,FXX
+https://m2.ballnaja.com:8443/sling_fxx/index.m3u8?
+#EXTINF:21,HITS MOVIES
+https://m1.ballnaja.com/ais_HITS_Movies/playlist.m3u8
+#EXTINF:24,HITS
+https://m1.ballnaja.com/ais_HITS/playlist.m3u8
+#EXTINF:22,HITS MOVIES
+https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8
+#EXTINF:24,HITS
+https://m2.ballnaja.com:8443/HITS/playlist.m3u8
+#EXTINF:24,TRUE MOVIE HITS
+https://m1.ballnaja.com/True_Movie_Hits/playlist.m3u8
+#EXTINF:24,TRUE THAI FILM
+https://m1.ballnaja.com/True_Thai_Film/playlist.m3u8
+#EXTINF:0,TRUE FILM ASIA
+https://m1.ballnaja.com/True_Film_Asia/playlist.m3u8
+#EXTINF:24,Astro Cricket
+https://m2.ballnaja.com:8443/CRICKET/index.m3u8?
+#EXTINF:24,Sky Cricket
+https://m1.ballnaja.com/Sky_Sports_Cricket_HD/index.m3u8?
+#EXTINF:22,PREMIERSPORT
+https://m2.ballnaja.com:8443/PREMIERSPORT/playlist.m3u8
+#EXTINF:24,ESPN
+https://m2.ballnaja.com:8443/sling_espn/index.m3u8?
+#EXTINF:24,ESPN 2
+https://m2.ballnaja.com:8443/sling_espn2/index.m3u8
+#EXTINF:24,Sky Sports Footbal
+https://m1.ballnaja.com/Sky_Sports_Football_HD/index.m3u8
+#EXTINF:24,Sky_Sports_Action_HD
+https://m1.ballnaja.com/Sky_Sports_Action_HD/index.m3u8
+#EXTINF:24,UNBEATIN
+https://m2.ballnaja.com:8443/Unbeatin/playlist.m3u8
+#EXTINF:24,Sky_Sports_Premier_League
+https://m1.ballnaja.com/Sky_Sports_Premier_League/index.m3u8
+#EXTINF:23,BeIn Sports 2 Eng
+https://m1.ballnaja.com/BeIn_Sports_2_Eng/index.m3u8?
+#EXTINF:24,ARENA Sports
+https://m2.ballnaja.com:8443/ARENA/index.m3u8?
+#EXTINF:24,DISCOVERY
+https://m1.ballnaja.com/ais_Discovery/playlist.m3u8
+#EXTINF:24,ANIMAL PLANET
+https://m1.ballnaja.com/ais_Animal_Planet/playlist.m3u8
+#EXTINF:23,HITS
+https://m2.ballnaja.com:8443/HITS/playlist.m3u8
+#EXTINF:24,ASIAN FOOD NETWORK
+https://m1.ballnaja.com/ais_Asian_Food_Network/playlist.m3u8
+#EXTINF:24,DISCASIA
+https://m2.ballnaja.com:8443/DISCASIA/playlist.m3u8
+#EXTINF:24,CARTOON NETWORK
+https://m2.ballnaja.com:8443/sling_Cartoon_Network/playlist.m3u8
+#EXTINF:23,XIAO TAI
+https://m2.ballnaja.com:8443/XIAO_TAI/playlist.m3u8
+#EXTINF:23,BOOMERANG
+https://m1.ballnaja.com/ais_Boomerang/playlist.m3u8
+#EXTINF:23,BABY TV
+https://m2.ballnaja.com:8443/sling_Babytv/playlist.m3u8
+#EXTINF:24,CARTOON NETWORK
+https://m1.ballnaja.com/ais_Cartoon_Network/playlist.m3u8
+#EXTINF:23,NICK JR
+https://m2.ballnaja.com:8443/sling_Nick_Jr/playlist.m3u8
+#EXTINF:22,DISNEY JR
+https://m2.ballnaja.com:8443/sling_Disney_Jr/playlist.m3u8
+#EXTINF:20, DISNEY CHANEL
+https://m2.ballnaja.com:8443/sling_Disney_Channel/playlist.m3u8
+#EXTINF:21,SLING DISNEY XD
+https://m2.ballnaja.com:8443/sling_Disney_Xd/playlist.m3u8
+#EXTINF:23,MOONBUG KIDS
+https://m2.ballnaja.com:8443/Moonbug_Kids/playlist.m3u8
+#EXTINF:22,TUTOR TV
+https://m2.ballnaja.com:8443/TUTOR_TV_SK/playlist.m3u8
+#EXTINF:23,NICKJR
+https://m2.ballnaja.com:8443/NICKJR/playlist.m3u8
+#EXTINF:23,NICKELODEON
+https://m1.ballnaja.com/ais_Nickelodeon/playlist.m3u8
+#EXTINF:24,NICK JR
+https://m1.ballnaja.com/ais_Nick_Jr./playlist.m3u8
+#EXTINF:22,CARTOON
+https://m2.ballnaja.com:8443/CARTOON/playlist.m3u8
+#EXTINF:21,NICKELODEON
+https://m2.ballnaja.com:8443/NICKELODEON/playlist.m3u8
+#EXTINF:20,FX
+https://m2.ballnaja.com:8443/sling_fx/playlist.m3u8
+#EXTINF:23,IQIYI
+https://m2.ballnaja.com:8443/iQIYI/playlist.m3u8
+#EXTINF:24,FOOD NETWORK
+https://m1.ballnaja.com/ais_Food_Network/playlist.m3u8
+#EXTINF:21,ANIMAL PLANET
+https://m2.ballnaja.com:8443/ANIMAL_PLANET/playlist.m3u8
+#EXTINF:24,TLC
+https://m2.ballnaja.com:8443/TLC/playlist.m3u8
+#EXTINF:24,DISCOVERY ASIA
+https://m1.ballnaja.com/Discovery_Asia/playlist.m3u8
+#EXTINF:24,OUTDOOR
+https://m1.ballnaja.com/Outdoor_Channel/playlist.m3u8
+#EXTINF:24,BEIN SP1
+https://m1.ballnaja.com/beIN_Sports_1/playlist.m3u8
+#EXTINF:24,BEIN SP2
+https://m1.ballnaja.com/beIN_Sports_2/playlist.m3u8
+#EXTINF:24,BEIN SP3
+https://m1.ballnaja.com/beIN_Sports_3/playlist.m3u8
+#EXTINF:23,SPOTV1
+https://m2.ballnaja.com:8443/SPOTV1/playlist.m3u8
+#EXTINF:24,SPOTV2
+https://m2.ballnaja.com:8443/SPOTV2/playlist.m3u8
+#EXTINF:24,EUROS SPOTV1
+https://m1.ballnaja.com/eurosport/playlist.m3u8
+#EXTINF:20,EUROS SPOTV2
+https://m2.ballnaja.com:8443/Eurosport_2_It/playlist.m3u8
+#EXTINF:20,REDBULL
+https://m2.ballnaja.com:8443/Redbull_TV/playlist.m3u8
+#EXTINF:24,MOTORVISION
+https://m1.ballnaja.com/Motorvision_TV/playlist.m3u8
+#EXTINF:24,EPL1
+https://m1.ballnaja.com/True_Premier_Football_1/playlist.m3u8
+#EXTINF:24,EPL2
+https://m1.ballnaja.com/True_Premier_Football_2/playlist.m3u8
+#EXTINF:24,EPL3
+https://m1.ballnaja.com/True_Premier_Football_3/playlist.m3u8
+#EXTINF:24,EPL4
+https://m1.ballnaja.com/True_Premier_Football_4/playlist.m3u8
+#EXTINF:24,EPL5
+https://m1.ballnaja.com/True_Premier_Football_5/playlist.m3u8
+#EXTINF:24,TRUE SP2
+https://m1.ballnaja.com/True_Sports_2/playlist.m3u8
+#EXTINF:24,TRUE SP3
+https://m1.ballnaja.com/True_Sports_3/playlist.m3u8
+#EXTINF:24,TRUE SP4
+https://m1.ballnaja.com/True_Sports_4/playlist.m3u8
+#EXTINF:24,TRUE SP5
+https://m1.ballnaja.com/True_Sports_5/playlist.m3u8
+#EXTINF:24,TRUE SP7
+https://m1.ballnaja.com/True_Sports_7/playlist.m3u8
+#EXTINF:24,TRUE TENNIS
+https://m1.ballnaja.com/True_Tennis/playlist.m3u8
+#EXTINF:24,GOLF CNANNEL
+https://m1.ballnaja.com/ais_GOLF_CHANNEL/playlist.m3u8
+#EXTINF:24,KPLUB
+https://m2.ballnaja.com:8443/KPLUS/playlist.m3u8
+#EXTINF:24, 3HD
+https://m1.ballnaja.com/CH3_HD/playlist.m3u8
+#EXTINF:20, 5HD
+https://m1.ballnaja.com/TV5_HD1/playlist.m3u8
+#EXTINF:24, 7HD
+https://m1.ballnaja.com/BBTV_CH_7/playlist.m3u8
+#EXTINF:20, MCOT HD
+https://m1.ballnaja.com/MCOT_HD/playlist.m3u8
+#EXTINF:20, NBT HD
+https://m1.ballnaja.com/NBT_HD/playlist.m3u8
+#EXTINF:24, TPBS HD
+https://m1.ballnaja.com/Thai_PBS/playlist.m3u8
+#EXTINF:24, THAIRATH HD
+https://m1.ballnaja.com/ThairathTV_HD/playlist.m3u8
+#EXTINF:24, PPTV HD
+https://m1.ballnaja.com/PPTV_HD/playlist.m3u8
+#EXTINF:24, ONE HD
+https://m1.ballnaja.com/one_HD/playlist.m3u8
+#EXTINF:20, TRUE4U
+https://m1.ballnaja.com/True4U/playlist.m3u8
+#EXTINF:20, JKN18
+https://m1.ballnaja.com/JKN_18/playlist.m3u8
+#EXTINF:20, TNN24
+https://m1.ballnaja.com/TNN_24/playlist.m3u8
+#EXTINF:24,TRUE X ZYTE
+https://m1.ballnaja.com/True_X-Zyte/playlist.m3u8
+#EXTINF:24,TRUE EXPIORE SCI
+https://m1.ballnaja.com/True_Explore_Sci/playlist.m3u8
+#EXTINF:0,TRUE EXPLORE LIFE
+https://m1.ballnaja.com/True_Explore_Life/playlist.m3u8
+#EXTINF:23,TVN
+https://m2.ballnaja.com:8443/tvn/playlist.m3u8
+#EXTINF:21,TVB
+https://m2.ballnaja.com:8443/TVBJ/playlist.m3u8
+#EXTINF:0,NHK
+https://m1.ballnaja.com/ais_NHK/playlist.m3u8
+#EXTINF:24,NFL
+https://m2.ballnaja.com:8443/NFL_Network/playlist.m3u8
+#EXTINF:20,NBA TV
+https://m2.ballnaja.com:8443/NBA_TV_Dzn/playlist.m3u8
+#EXTINF:24,NFL  
+https://m2.ballnaja.com:8443/NFL_Network/playlist.m3u8
+#EXTINF:24,T SPORTS
+https://m1.ballnaja.com/t-sport7/playlist.m3u8
+#EXTINF:20,MILAN TV
+https://m2.ballnaja.com:8443/Milan_TV/playlist.m3u8
+#EXTINF:21,3BB SPORTS
+https://m1.ballnaja.com/ais_3BB_Sports_One/playlist.m3u8
+#EXTINF:24,DreamWorks
+https://m1.ballnaja.com/DreamWorks/index.m3u8?
+#EXTINF:20,MONO_29
+https://m2.ballnaja.com/MONO_29/index.m3u8?
